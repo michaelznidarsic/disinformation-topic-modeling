@@ -10,7 +10,7 @@ Data cleaning and modelling was done in Python. The outcome of the models is vis
 ![alt text](https://github.com/michaelznidarsic/disinformation-topic-modeling/blob/master/LDAtopicvizsample.png?raw=true)
 
 
-
+<html>
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/bmabey/pyLDAvis/files/ldavis.v1.0.0.css">
 
 
@@ -51,3 +51,4 @@ if(typeof(LDAvis) !== "undefined"){
          });
 }
 </script>
+</html>
