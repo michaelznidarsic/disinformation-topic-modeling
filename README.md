@@ -7,7 +7,7 @@ Latent Dirichlet Allocation models were run to approximate the topical foci of a
 
 Data cleaning and modelling was done in Python. The outcome of the models is visualized in interactive HTML files generated using the PyLDAvis Python package. Below is an example of a topic visualized in the HTML files.
 
-
+![alt text](https://github.com/michaelznidarsic/disinformation-topic-modeling/blob/master/LDAtopicvizsample.png?raw=true)
 
 
 
