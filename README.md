@@ -1,7 +1,7 @@
 # Topic Modeling of Russian Disinformation on Twitter. 
 
 
-This data was obtained at https://transparency.twitter.com/en/information-operations.html. The "Tweet Information" was pulled from the Russian Bot dumps of May 2020, June 2019, and January 2019. These contains tweets going back as far as the early 2010s.
+This data was obtained at https://transparency.twitter.com/en/information-operations.html. The "Tweet Information" was pulled from the Russian Bot dumps of May 2020, June 2019, and January 2019. These contain tweets going back as far as the early 2010s.
 
 Latent Dirichlet Allocation models were run to approximate the topical foci of all Russian Bot tweets disclosed officially by Twitter. Separate models were run for tweets made by the Bot accounts and retweets made by those accounts. 
 
